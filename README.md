@@ -24,8 +24,7 @@ As the **Indie Game Developer**, I handled:
 ## 📲 Play the Game
 🔗 [Google Play Store](https://play.google.com/store/apps/details?id=com.zams.formula.racing.stunt.driving.car.games)
 
-## 📷 Screenshots
-(Include gameplay images here)
+
 
 ## 📜 About the Development
 - Built using **Unity Engine**
